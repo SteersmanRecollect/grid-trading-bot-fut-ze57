@@ -1,4 +1,4 @@
-# 
+# high-frequency Trading Bot for leverage trading bot | low-frequency & slippage-control is the best leverage trading bot, featuring low-frequency and slippage-control. Smart, fast,
 
 
 
